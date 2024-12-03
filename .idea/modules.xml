@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PraktischeInformatik_2024-2025.iml" filepath="$PROJECT_DIR$/PraktischeInformatik_2024-2025.iml" />
-      <module fileurl="file://$PROJECT_DIR$/arb03/arb03.iml" filepath="$PROJECT_DIR$/arb03/arb03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP/arb03.iml" filepath="$PROJECT_DIR$/OPP/arb03.iml" />
     </modules>
   </component>
 </project>
